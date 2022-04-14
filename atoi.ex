@@ -4,7 +4,6 @@ defmodule Solution do
     result = s
           |> String.trim
           |> String.split
-          |> List.first
 
     if Integer.parse(result) != :error do
       {num,_} = Integer.parse(result)
@@ -16,14 +15,7 @@ defmodule Solution do
     else
       0
     end
-
-
   end
-
-
-
-
-
 
   def get_numbers(s) do
     result = s
