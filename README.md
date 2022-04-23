@@ -10,3 +10,5 @@ You should try leetcode since it helps you to understand better the language, le
 | 4 | Reverse Integer | Elixir | Beats 66%
 | 5 | String to integer | Elixir | Beats 50%
 | 6 | Integer to Roman | Elixir | Beats 57%
+| 535 | Encode and decode TinyURL | Javascript | Beats 53%
+
